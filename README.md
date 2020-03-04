@@ -51,8 +51,8 @@ example output
 vowels = 59
 upper = 4
 digits = 0
-whitespace = 27
-vowel o occurs the most = 20
+whitespace = 28
+vowel o occurs the most = 21
 repeated characters: c o c o l o c o n o l c o n o k e
 ```
 
