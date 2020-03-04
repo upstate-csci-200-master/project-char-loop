@@ -1,9 +1,9 @@
 # program-4
 ![alt text](https://octodex.github.com/images/hula_loop_octodex03.gif "Hulatocat")
 
-Write a program that reads in a string from standard input and determines the following:
+Write a program (C version) that reads in a string from standard input and determines the following:
 ```
-how many vowels are in the string
+how many vowels are in the string (FOR THE PURPOSE OF THIS PROGRAM 'Y' is NOT considered a vowel)
 how many upper case characters are in the string
 how many digits are in the string
 how many white space characters are in the string
@@ -39,4 +39,26 @@ whitespace = 6
 vowel i occurs the most = 4
 ```
 
-For a grade of A, modify the B program to output a list of all repeated characters. 
+For a grade of A, modify the B program to output a list of all consecutively repeated characters. That is any character which repeats consecutively in the string. 
+
+example input
+```
+Some people raise raccoons for their pelts. A raccoon's home is called a nook. The person who cleans and tidies up the raccoonnooks is called the raccoonnookkeeper. Real word! 
+```
+
+example output
+```
+vowels = 59
+upper = 4
+digits = 0
+whitespace = 27
+vowel o occurs the most = 20
+repeated characters: c o c o l o c o n o l c o n o k e
+```
+
+Name your source code file: program4.java
+
+Submit to CodePost.
+
+Complete this form - https://form.jotform.com/200302477347046
+
