@@ -1,5 +1,5 @@
 # program-4
-<img src="hula_loop_octodex03.gif" style="height: 400px;width:200px;">
+<img src="hula_loop_octodex03.gif" style="height:200px;">
 
 Write a program (C version) that reads in a string from standard input and determines the following:
 ```
