@@ -1,5 +1,5 @@
 # program-4
-![Hulatocat](./hula_loop_octodex03.gif =300x200) 
+<img src="hula_loop_octodex03.gif" style="width:200px;">
 
 Write a program (C version) that reads in a string from standard input and determines the following:
 ```
