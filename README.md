@@ -23,7 +23,7 @@ whitespace = 6
 ```
 
 
-For a grade of B, modify the C program to indicate which vowel occurs the most. In the case of a tie, only output the vowel which comes first alphabetically.
+**For a grade of B**, modify the C program to indicate which vowel occurs the most. In the case of a tie, only output the vowel which comes first alphabetically.
 
 example input
 ```
@@ -41,7 +41,7 @@ vowel i occurs the most = 4
 NOTE: if there are no vowels then output "no vowels"
 
 
-For a grade of A, modify the B program to output a list of all consecutively repeated characters. That is any character which repeats consecutively in the string.
+**For a grade of A**, modify the B program to output a list of all consecutively repeated characters. That is any character which repeats consecutively in the string.
 
 example input
 '''
