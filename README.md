@@ -75,6 +75,6 @@ no repeating characters
 ```
 Name your source code file: CharLoop.java
 Submit to CodePost.
-After you have submitted your code to CodePost, COMPLETE THIS FORM TO RECEIVE FULL CREDIT: https://form.jotform.com/200302477347046
 ```
+After you have submitted your code to CodePost, COMPLETE THIS FORM TO RECEIVE FULL CREDIT: https://form.jotform.com/200302477347046
 
