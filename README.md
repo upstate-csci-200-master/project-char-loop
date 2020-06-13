@@ -78,3 +78,19 @@ Submit to CodePost.
 ```
 After you have submitted your code to CodePost, COMPLETE THIS FORM TO RECEIVE FULL CREDIT: https://form.jotform.com/200302477347046
 
+HELPFUL JAVA THINGS TO SOLVE THIS PROBLEM
+1. learn methods in Java Character class - https://www.geeksforgeeks.org/character-class-java/
+2. you may find these especially helpful for this program - isWhiteSpace, toLowerCase, isDigit, isAlphabetic
+3. learn how to use the String class methods length and charAt - https://www.w3schools.com/java/java_ref_string.asp
+4. this entire program can be written WITHOUT the use of arrays or arrayLists
+5. for the B version consider having an integer counter for each vowel and use a series of if statements
+6. for the A version consider going through the characters of the string a 2nd time to find and output repeating characters; you can do this simply with a 2nd while loop after your process the C and B versions in a while loop
+7. here is a potential logic to solve all 3 versions
+   1. read the string (DO NOT PRINT ANY PROMPTS)
+   2. initialize all of your counters to zero, this program will have many counter varaibles, use integers
+   3. use a while loop to loop through each character of the string, convert to lowercase then check for each condition and increment the appropriate counters
+   4. output the counter results for vowels, upper, digits, and whitespace
+   5. if you do B version output most frequent vowel, don't worry about ties
+   6. if you do the A version then loop through the string again, compare each character to the one before it and if the same then output that character
+   
+ 
