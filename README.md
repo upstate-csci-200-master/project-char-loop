@@ -87,7 +87,7 @@ HELPFUL JAVA THINGS TO SOLVE THIS PROBLEM
 6. for the A version consider going through the characters of the string a 2nd time to find and output repeating characters; you can do this simply with a 2nd while loop after your process the C and B versions in a while loop
 7. here is a potential logic to solve all 3 versions
    1. read the string (DO NOT PRINT ANY PROMPTS)
-   2. initialize all of your counters to zero, this program will have many counter varaibles, use integers
+   2. initialize all of your counters to zero, this program will have many counter variables, use integers
    3. use a while loop to loop through each character of the string, convert to lowercase then check for each condition and increment the appropriate counters
    4. output the counter results for vowels, upper, digits, and whitespace
    5. if you do B version output most frequent vowel, don't worry about ties
