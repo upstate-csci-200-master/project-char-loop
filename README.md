@@ -23,7 +23,7 @@ whitespace = 6
 ```
 
 
-**For a grade of B**, modify the C program to indicate which vowel occurs the most. In the case of a tie, only output the vowel which comes first alphabetically.
+**For a grade of B**, modify the C program to indicate which vowel occurs the most (ARRAYS OR ARRAYLISTS ARE NOT NECESSARY TO SOLVE THIS PROBLEM. Points will be deducted if you use them). In the case of a tie, only output the vowel which comes first alphabetically.
 
 example input
 ```
