@@ -76,7 +76,6 @@ no repeating characters
 Name your source code file: CharLoop.java
 Submit to CodePost.
 ```
-After you have submitted your code to CodePost, COMPLETE THIS FORM TO RECEIVE FULL CREDIT: https://form.jotform.com/200302477347046
 
 HELPFUL JAVA THINGS TO SOLVE THIS PROBLEM
 1. learn methods in Java Character class - https://www.geeksforgeeks.org/character-class-java/
